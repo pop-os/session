@@ -13,6 +13,9 @@ folder-children = ['Pop-Office', 'Pop-System', 'Pop-Utility']
 [org.gnome.desktop.background:pop]
 show-desktop-icons = true
 
+[org.gnome.desktop.datetime:pop]
+automatic-timezone=true
+
 [org.gnome.desktop.interface:pop]
 gtk-theme = "Pop"
 icon-theme = "Pop"

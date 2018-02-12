@@ -1,3 +1,9 @@
+pop-session (2.0.2) bionic; urgency=medium
+
+  * Add automatic datetime
+
+ -- Jeremy Soller <jeremy@system76.com>  Mon, 12 Feb 2018 09:16:41 -0700
+
 pop-session (2.0.1) artful; urgency=medium
 
   * Symlink pop-xorg.desktop in /usr/share/xsesssions to pop.desktop
