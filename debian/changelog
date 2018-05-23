@@ -1,3 +1,9 @@
+pop-session (2.0.5) bionic; urgency=medium
+
+  * Add missing keyboard shortcuts
+
+ -- Benjamin Shpurker <benjamin@system76.com>  Wed, 23 May 2018 08:12:49 -0600
+
 pop-session (2.0.4) bionic; urgency=medium
 
   * Add more extensions
