@@ -12,7 +12,6 @@ Architecture: any
 Depends: ${misc:Depends},
          gnome-shell,
          gnome-shell-extension-alt-tab-raise-first-window,
-         gnome-shell-extension-always-show-workspaces,
          gnome-shell-extension-do-not-disturb,
          gnome-shell-extension-pop-battery-icon-fix,
          gnome-shell-extension-pop-shop-details,
