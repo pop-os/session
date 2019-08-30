@@ -5,7 +5,6 @@
 [org.gnome.shell:pop]
 always-show-log-out = true
 app-picker-view = 1
-enable-hot-corners = false
 
 [org.gnome.shell.keybindings:pop]
 open-application-menu = ['<Super>m']
@@ -29,6 +28,7 @@ document-font-name = "Roboto Slab 11"
 monospace-font-name = "Fira Mono 11"
 clock-show-date=true
 clock-format = '12h'
+enable-hot-corners = false
 
 [org.gnome.desktop.notifications:pop]
 show-in-lock-screen = false
@@ -82,7 +82,7 @@ toggle-tiled-left = ['<Primary><Super>Left']
 toggle-tiled-right = ['<Primary><Super>Right']
 
 [org.gnome.settings-daemon.plugins.media-keys:pop]
-terminal = '<Super>t'
+terminal = ['<Super>t']
 
 [org.gnome.settings-daemon.plugins.power:pop]
 button-power = 'interactive'

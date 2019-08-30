@@ -1,3 +1,9 @@
+pop-session (3.0.1) eoan; urgency=medium
+
+  * Update terminal hotkey and hotcorner gsettings
+
+ -- Jeremy Soller <jeremy@system76.com>  Fri, 30 Aug 2019 11:17:49 -0600
+
 pop-session (3.0.0) eoan; urgency=medium
 
   * Support for GNOME 3.34
