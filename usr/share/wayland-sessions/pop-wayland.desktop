@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=Pop on Wayland
 Comment=This session logs you into Pop
-Exec=/usr/bin/gnome-session --systemd --session=pop
-TryExec=/usr/bin/gnome-session
+Exec=env GNOME_SHELL_SESSION_MODE=pop /usr/bin/gnome-session --systemd --session=pop
+TryExec=/usr/bin/gnome-shell
 Type=Application
 DesktopNames=pop:GNOME
 X-GDM-SessionRegisters=true
