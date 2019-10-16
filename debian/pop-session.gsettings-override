@@ -33,6 +33,9 @@ enable-hot-corners = false
 [org.gnome.desktop.notifications:pop]
 show-in-lock-screen = false
 
+[org.gnome.desktop.sound:pop]
+theme-name = "Pop"
+
 [org.gtk.Settings.FileChooser:pop]
 sort-directories-first = true
 startup-mode = 'cwd'
