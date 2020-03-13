@@ -1,3 +1,9 @@
+pop-session (4.0.0) focal; urgency=medium
+
+  * Enable pop-shell
+
+ -- Jeremy Soller <jeremy@system76.com>  Fri, 13 Mar 2020 09:28:37 -0600
+
 pop-session (3.0.2) eoan; urgency=medium
 
   * Set sound theme

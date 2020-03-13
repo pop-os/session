@@ -22,6 +22,7 @@ Depends: ${misc:Depends},
          gnome-session-bin,
          gnome-session-common,
          pop-gnome-shell-theme,
+         pop-shell,
          xwayland,
 Provides: x-session-manager, gnome-session
 Breaks: pop-default-settings (<< 2)

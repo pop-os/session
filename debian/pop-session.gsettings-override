@@ -7,7 +7,7 @@ always-show-log-out = true
 app-picker-view = 1
 
 [org.gnome.shell.keybindings:pop]
-open-application-menu = ['<Super>m']
+open-application-menu = []
 toggle-message-tray = ['<Super>v']
 
 [org.gnome.desktop.app-folders:pop]
@@ -42,22 +42,23 @@ startup-mode = 'cwd'
 clock-format = '12h'
 
 [org.gnome.desktop.wm.keybindings:pop]
-close = ['<Super>w']
+close = ['<Super>q']
 maximize = []
-move-to-monitor-down = ['<Primary><Shift><Super>Down']
-move-to-monitor-left = ['<Primary><Shift><Super>Left']
-move-to-monitor-right = ['<Primary><Shift><Super>Right']
-move-to-monitor-up = ['<Primary><Shift><Super>Up']
-move-to-workspace-down = ['<Shift><Super>Down']
-move-to-workspace-left = ['<Shift><Super>Left']
-move-to-workspace-right = ['<Shift><Super>Right']
-move-to-workspace-up = ['<Shift><Super>Up']
-switch-to-workspace-down = ['<Super>Down']
-switch-to-workspace-left = ['<Super>Left']
-switch-to-workspace-right = ['<Super>Right']
-switch-to-workspace-up = ['<Super>Up']
-toggle-maximized = ['<Primary><Super>Up']
-unmaximize = ['<Primary><Super>Down']
+minimize = []
+move-to-monitor-down = ['<Primary><Shift><Super>Down', '<Primary><Shift><Super>j']
+move-to-monitor-left = ['<Shift><Super>Left', '<Shift><Super>h']
+move-to-monitor-right = ['<Shift><Super>Right', '<Shift><Super>l']
+move-to-monitor-up = ['<Primary><Shift><Super>Up', '<Primary><Shift><Super>k']
+move-to-workspace-down = ['<Shift><Super>Down', '<Shift><Super>j']
+move-to-workspace-left = []
+move-to-workspace-right = []
+move-to-workspace-up = ['<Shift><Super>Up', '<Shift><Super>k']
+switch-to-workspace-down = ['<Primary><Super>Down', '<Primary><Super>j']
+switch-to-workspace-left = []
+switch-to-workspace-right = []
+switch-to-workspace-up = ['<Primary><Super>Up', '<Primary><Super>k']
+toggle-maximized = ['<Super>m']
+unmaximize = []
 show-desktop = ['<Super>d']
 
 [org.gnome.desktop.wm.preferences:pop]
@@ -81,11 +82,18 @@ dynamic-workspaces = true
 workspaces-only-on-primary = true
 
 [org.gnome.mutter.keybindings]
-toggle-tiled-left = ['<Primary><Super>Left']
-toggle-tiled-right = ['<Primary><Super>Right']
+toggle-tiled-left = []
+toggle-tiled-right = []
+
+[org.gnome.mutter.wayland.keybindings]
+restore-shortcuts = []
 
 [org.gnome.settings-daemon.plugins.media-keys:pop]
+email = ['<Super>e']
+home = ['<Super>f']
+screensaver = ['<Super>Escape']
 terminal = ['<Super>t']
+www = ['<Super>b']
 
 [org.gnome.settings-daemon.plugins.power:pop]
 button-power = 'interactive'
@@ -97,7 +105,7 @@ power-button-action = 'interactive'
 antialiasing = 'grayscale'
 
 [org.gnome.shell:pop]
-enabled-extensions = ['alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'desktop-icons@csoriano', 'donotdisturb@kylecorry31.github.io', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com']
+enabled-extensions = ['alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'desktop-icons@csoriano', 'donotdisturb@kylecorry31.github.io', 'pop-shell@system76.com', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com']
 
 [org.gnome.shell.overrides:pop]
 attach-modal-dialogs = false
