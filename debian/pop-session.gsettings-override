@@ -20,7 +20,7 @@ show-desktop-icons = true
 automatic-timezone=true
 
 [org.gnome.desktop.interface:pop]
-gtk-theme = "Pop"
+gtk-theme = "Pop-dark"
 icon-theme = "Pop"
 cursor-theme = "Pop"
 font-name = "Fira Sans Semi-Light 10"
