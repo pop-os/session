@@ -1,5 +1,6 @@
 pop-session (4.0.2~~alpha) focal; urgency=medium
 
+  * Add appindicators extension
 
  -- Jeremy Soller <jeremy@system76.com>  Fri, 27 Mar 2020 08:59:44 -0600
 

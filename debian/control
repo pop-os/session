@@ -12,6 +12,7 @@ Architecture: all
 Depends: ${misc:Depends},
          gnome-shell,
          gnome-shell-extension-alt-tab-raise-first-window,
+         gnome-shell-extension-appindicator,
          gnome-shell-extension-desktop-icons,
          gnome-shell-extension-pop-battery-icon-fix,
          gnome-shell-extension-pop-shop-details,
