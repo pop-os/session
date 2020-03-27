@@ -1,9 +1,9 @@
-pop-session (4.0.2~~alpha) focal; urgency=medium
+pop-session (4.0.2) focal; urgency=medium
 
   * Add appindicators extension
   * Default to dark theme
 
- -- Jeremy Soller <jeremy@system76.com>  Fri, 27 Mar 2020 08:59:44 -0600
+ -- Jeremy Soller <jeremy@system76.com>  Fri, 27 Mar 2020 09:09:16 -0600
 
 pop-session (4.0.1) focal; urgency=medium
 
