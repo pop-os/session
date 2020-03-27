@@ -1,6 +1,7 @@
 {
     "parentMode": "user",
-    "stylesheetName": "pop.css",
+    "stylesheetName": "gnome-shell.css",
+    "themeResourceName": "theme/Pop/gnome-shell-theme.gresource",
     "enabledExtensions": [
         "alt-tab-raise-first-window@system76.com",
         "batteryiconfix@kylecorry31.github.io",
