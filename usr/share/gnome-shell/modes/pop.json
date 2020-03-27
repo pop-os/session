@@ -1,5 +1,13 @@
 {
     "parentMode": "user",
     "stylesheetName": "pop.css",
-    "enabledExtensions": []
+    "enabledExtensions": [
+        "alt-tab-raise-first-window@system76.com",
+        "batteryiconfix@kylecorry31.github.io",
+        "desktop-icons@csoriano",
+        "pop-shell@system76.com",
+        "pop-shop-details@system76.com",
+        "system76-power@system76.com",
+        "ubuntu-appindicators@ubuntu.com"
+    ]
 }
