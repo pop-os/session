@@ -1,3 +1,10 @@
+pop-session (4.0.5) focal; urgency=medium
+
+  * Re-add always-show-workspaces extension
+  * Disable workspaces-only-on-primary
+
+ -- Jeremy Soller <jeremy@system76.com>  Wed, 15 Apr 2020 08:54:37 -0600
+
 pop-session (4.0.4) focal; urgency=medium
 
   * Update to support GNOME Shell 3.36
