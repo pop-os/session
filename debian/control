@@ -11,18 +11,18 @@ Package: pop-session
 Architecture: all
 Depends: ${misc:Depends},
          gnome-shell,
-         gnome-shell-extension-alt-tab-raise-first-window,
-         gnome-shell-extension-always-show-workspaces,
-         gnome-shell-extension-appindicator,
-         gnome-shell-extension-desktop-icons,
-         gnome-shell-extension-pop-battery-icon-fix,
-         gnome-shell-extension-pop-shop-details,
-         gnome-shell-extension-system76-power,
          gnome-session-bin,
          gnome-session-common,
          pop-gnome-shell-theme,
          pop-shell,
          xwayland,
+Recommends: gnome-shell-extension-alt-tab-raise-first-window,
+            gnome-shell-extension-always-show-workspaces,
+            gnome-shell-extension-appindicator,
+            gnome-shell-extension-desktop-icons,
+            gnome-shell-extension-pop-battery-icon-fix,
+            gnome-shell-extension-pop-shop-details,
+            gnome-shell-extension-system76-power,
 Provides: x-session-manager, gnome-session
 Breaks: pop-default-settings (<< 2)
 Replaces: pop-default-settings (<< 2)
