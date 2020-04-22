@@ -1,3 +1,10 @@
+pop-session (4.0.6) focal; urgency=medium
+
+  * Set split left/right to super+ctrl+left/right
+  * Set enabled extensions in gsettings
+
+ -- Jeremy Soller <jeremy@system76.com>  Wed, 22 Apr 2020 09:46:57 -0600
+
 pop-session (4.0.5) focal; urgency=medium
 
   * Re-add always-show-workspaces extension
