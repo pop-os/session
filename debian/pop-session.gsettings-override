@@ -77,8 +77,8 @@ default-zoom-level = 'standard'
 
 [org.gnome.mutter:pop]
 attach-modal-dialogs = false
-edge-tiling = true
 dynamic-workspaces = true
+edge-tiling = true
 workspaces-only-on-primary = false
 
 [org.gnome.mutter.keybindings]
@@ -109,6 +109,9 @@ enabled-extensions = ['alt-tab-raise-first-window@system76.com', 'always-show-wo
 
 [org.gnome.shell.overrides:pop]
 attach-modal-dialogs = false
+dynamic-workspaces = true
+edge-tiling = true
+workspaces-only-on-primary = false
 
 [org.gnome.shell.extensions.desktop-icons:pop]
 show-home = false
