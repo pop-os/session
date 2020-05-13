@@ -59,7 +59,7 @@ switch-to-workspace-right = []
 switch-to-workspace-up = ['<Primary><Super>Up', '<Primary><Super>k']
 toggle-maximized = ['<Super>m']
 unmaximize = []
-show-desktop = ['<Super>d']
+show-desktop = []
 
 [org.gnome.desktop.wm.preferences:pop]
 resize-with-right-button = true
