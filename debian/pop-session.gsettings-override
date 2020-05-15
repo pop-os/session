@@ -59,7 +59,7 @@ switch-to-workspace-right = []
 switch-to-workspace-up = ['<Primary><Super>Up', '<Primary><Super>k']
 toggle-maximized = ['<Super>m']
 unmaximize = []
-show-desktop = ['<Super>d']
+show-desktop = []
 
 [org.gnome.desktop.wm.preferences:pop]
 resize-with-right-button = true
@@ -77,13 +77,13 @@ default-zoom-level = 'standard'
 
 [org.gnome.mutter:pop]
 attach-modal-dialogs = false
-edge-tiling = true
 dynamic-workspaces = true
+edge-tiling = true
 workspaces-only-on-primary = false
 
 [org.gnome.mutter.keybindings]
-toggle-tiled-left = []
-toggle-tiled-right = []
+toggle-tiled-left = ['<Primary><Super>Left']
+toggle-tiled-right = ['<Primary><Super>Right']
 
 [org.gnome.mutter.wayland.keybindings]
 restore-shortcuts = []
@@ -105,10 +105,13 @@ power-button-action = 'interactive'
 antialiasing = 'grayscale'
 
 [org.gnome.shell:pop]
-enabled-extensions = []
+enabled-extensions = ['alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'desktop-icons@csoriano', 'pop-shell@system76.com', 'pop-shop-details@system76.com', 'system76-power@system76.com', 'ubuntu-appindicators@ubuntu.com']
 
 [org.gnome.shell.overrides:pop]
 attach-modal-dialogs = false
+dynamic-workspaces = true
+edge-tiling = true
+workspaces-only-on-primary = false
 
 [org.gnome.shell.extensions.desktop-icons:pop]
 show-home = false
