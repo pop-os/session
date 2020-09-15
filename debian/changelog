@@ -1,3 +1,9 @@
+pop-session (5.0.0) groovy; urgency=medium
+
+  * Update to support GNOME Shell 3.38
+
+ -- Jeremy Soller <jeremy@system76.com>  Mon, 14 Sep 2020 20:16:52 -0600
+
 pop-session (4.0.6) focal; urgency=medium
 
   * Set split left/right to super+ctrl+left/right
