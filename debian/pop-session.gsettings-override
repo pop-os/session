@@ -126,6 +126,7 @@ workspaces-only-on-primary = false
 [org.gnome.shell.extensions.desktop-icons:pop]
 show-home = false
 show-trash = false
+show-mount = false
 
 #####################
 # Touchpad settings #
