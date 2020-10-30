@@ -76,6 +76,7 @@ resize-with-right-button = true
 theme = "Pop"
 titlebar-font = 'Fira Sans Semi-Bold 10'
 titlebar-uses-system-font = false
+button-layout = 'menu:minimize,maximize,close'
 
 [org.gnome.nautilus.desktop:pop]
 home-icon-visible = false
