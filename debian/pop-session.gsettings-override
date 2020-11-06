@@ -126,7 +126,7 @@ workspaces-only-on-primary = false
 [org.gnome.shell.extensions.ding:pop]
 show-home = false
 show-trash = false
-show-mount = false
+show-volumes = false
 
 #####################
 # Touchpad settings #
