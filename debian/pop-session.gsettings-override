@@ -115,7 +115,7 @@ power-button-action = 'interactive'
 antialiasing = 'grayscale'
 
 [org.gnome.shell:pop]
-enabled-extensions = ['alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'ding@rastersoft.com', 'pop-shell@system76.com', 'pop-shop-details@system76.com', 'system76-power@system76.com', 'ubuntu-appindicators@ubuntu.com']
+enabled-extensions = ['alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'ding@rastersoft.com', 'pop-shell@system76.com', 'pop-shop-details@system76.com', 'system76-power@system76.com', 'ubuntu-appindicators@ubuntu.com']
 
 [org.gnome.shell.overrides:pop]
 attach-modal-dialogs = false
