@@ -92,8 +92,8 @@ edge-tiling = true
 workspaces-only-on-primary = false
 
 [org.gnome.mutter.keybindings]
-toggle-tiled-left = ['<Primary><Super>Left', '<Primary><Super>KP_Left']
-toggle-tiled-right = ['<Primary><Super>Right', '<Primary><Super>KP_Right']
+toggle-tiled-left = ['<Primary><Super>Left', '<Primary><Super>KP_Left', '<Primary><Super>h']
+toggle-tiled-right = ['<Primary><Super>Right', '<Primary><Super>KP_Right', '<Primary><Super>l']
 
 [org.gnome.mutter.wayland.keybindings]
 restore-shortcuts = []
