@@ -43,6 +43,9 @@ enable-hot-corners = false
 [org.gnome.desktop.notifications:pop]
 show-in-lock-screen = false
 
+[org.gnome.desktop.search-providers:pop]
+disabled = ['org.gnome.Contacts.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Calculator.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.Terminal.desktop']
+
 [org.gnome.desktop.sound:pop]
 theme-name = "Pop"
 
