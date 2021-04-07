@@ -72,6 +72,7 @@ unmaximize = []
 show-desktop = []
 
 [org.gnome.desktop.wm.preferences:pop]
+button-layout = 'appmenu:minimize,close'
 resize-with-right-button = true
 theme = "Pop"
 titlebar-font = 'Fira Sans Semi-Bold 10'
