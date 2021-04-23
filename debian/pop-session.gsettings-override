@@ -9,7 +9,7 @@ app-picker-view = 1
 [org.gnome.shell.keybindings:pop]
 open-application-menu = []
 toggle-message-tray = ['<Super>v']
-toggle-overview = []
+toggle-overview = ['<Super>d']
 switch-to-application-1 = []
 switch-to-application-2 = []
 switch-to-application-3 = []
