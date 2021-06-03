@@ -5,6 +5,7 @@
 [org.gnome.shell:pop]
 always-show-log-out = true
 app-picker-view = 1
+favorite-apps = ['pop-cosmic-launcher.desktop', 'pop-cosmic-workspaces.desktop', 'pop-cosmic-applications.desktop', 'firefox.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Terminal.desktop', 'io.elementary.appcenter.desktop', 'io.elementary.installer.desktop']
 
 [org.gnome.shell.keybindings:pop]
 open-application-menu = []
