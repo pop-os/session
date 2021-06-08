@@ -74,6 +74,7 @@ switch-to-workspace-up = ['<Primary><Super>Up', '<Primary><Super>KP_Up', '<Prima
 toggle-maximized = ['<Super>m']
 unmaximize = []
 show-desktop = []
+panel-main-menu = []
 
 [org.gnome.desktop.wm.preferences:pop]
 button-layout = 'appmenu:minimize,close'
