@@ -9,6 +9,6 @@
         "pop-shell@system76.com",
         "system76-power@system76.com",
         "ubuntu-appindicators@ubuntu.com",
-        "ubuntu-dock@ubuntu.com"
+        "cosmic-dock@system76.com"
     ]
 }

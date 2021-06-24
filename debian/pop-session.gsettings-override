@@ -121,7 +121,7 @@ power-button-action = 'interactive'
 antialiasing = 'grayscale'
 
 [org.gnome.shell:pop]
-enabled-extensions = ['ding@rastersoft.com', 'multi-monitors-add-on@spin83', 'pop-cosmic@system76.com', 'pop-shell@system76.com', 'system76-power@system76.com', 'ubuntu-appindicators@ubuntu.com', 'ubuntu-dock@ubuntu.com']
+enabled-extensions = ['ding@rastersoft.com', 'multi-monitors-add-on@spin83', 'pop-cosmic@system76.com', 'pop-shell@system76.com', 'system76-power@system76.com', 'ubuntu-appindicators@ubuntu.com', 'cosmic-dock@system76.com']
 
 [org.gnome.shell.overrides:pop]
 attach-modal-dialogs = false
