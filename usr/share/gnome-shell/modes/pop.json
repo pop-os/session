@@ -4,7 +4,6 @@
     "themeResourceName": "theme/Pop/gnome-shell-theme.gresource",
     "enabledExtensions": [
         "ding@rastersoft.com",
-        "multi-monitors-add-on@spin83",
         "pop-cosmic@system76.com",
         "pop-shell@system76.com",
         "system76-power@system76.com",
