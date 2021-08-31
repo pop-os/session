@@ -8,6 +8,7 @@
         "pop-shell@system76.com",
         "system76-power@system76.com",
         "ubuntu-appindicators@ubuntu.com",
-        "cosmic-dock@system76.com"
+        "cosmic-dock@system76.com",
+        "vertical-overview@RensAlthuis.github.com"
     ]
 }
