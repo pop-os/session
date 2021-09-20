@@ -21,6 +21,7 @@ Depends: ${misc:Depends},
          pop-cosmic,
          pop-gnome-shell-theme,
          pop-shell,
+         pop-theme,
          xwayland,
 Provides: x-session-manager, gnome-session
 Breaks: pop-default-settings (<< 2)
