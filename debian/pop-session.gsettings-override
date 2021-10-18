@@ -117,7 +117,7 @@ www = ['<Super>b']
 power-button-action = 'interactive'
 
 [org.gnome.shell:pop]
-enabled-extensions = ['ding@rastersoft.com', 'pop-cosmic@system76.com', 'pop-shell@system76.com', 'system76-power@system76.com', 'ubuntu-appindicators@ubuntu.com', 'cosmic-dock@system76.com', 'vertical-overview@RensAlthuis.github.com']
+enabled-extensions = ['ding@rastersoft.com', 'pop-cosmic@system76.com', 'pop-shell@system76.com', 'system76-power@system76.com', 'ubuntu-appindicators@ubuntu.com', 'cosmic-dock@system76.com', 'cosmic-workspaces@system76.com']
 
 [org.gnome.shell.overrides:pop]
 attach-modal-dialogs = false
