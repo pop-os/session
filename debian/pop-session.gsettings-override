@@ -58,7 +58,7 @@ startup-mode = 'cwd'
 clock-format = '12h'
 
 [org.gnome.desktop.wm.keybindings:pop]
-close = ['<Super>q']
+close = ['<Alt>F4', '<Super>q']
 maximize = []
 minimize = []
 move-to-monitor-down = []
