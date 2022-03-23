@@ -112,6 +112,7 @@ home = ['<Super>f']
 screensaver = ['<Super>Escape']
 terminal = ['<Super>t']
 www = ['<Super>b']
+custom-keybindings = ['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/PopLaunch1/']
 
 [org.gnome.settings-daemon.plugins.power:pop]
 power-button-action = 'interactive'
