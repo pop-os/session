@@ -33,6 +33,7 @@ show-desktop-icons = true
 automatic-timezone=true
 
 [org.gnome.desktop.interface:pop]
+color-scheme = "prefer-dark"
 gtk-theme = "Pop-dark"
 icon-theme = "Pop"
 cursor-theme = "Pop"
