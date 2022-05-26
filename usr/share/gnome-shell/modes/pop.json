@@ -9,6 +9,7 @@
         "system76-power@system76.com",
         "ubuntu-appindicators@ubuntu.com",
         "cosmic-dock@system76.com",
-        "cosmic-workspaces@system76.com"
+        "cosmic-workspaces@system76.com",
+        "popx11gestures@system76.com"
     ]
 }
